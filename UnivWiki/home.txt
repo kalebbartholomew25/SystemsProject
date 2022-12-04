@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+	<head>
+		<div>
+
+		<header>
+
+		<nav class="navheader">
+			
+			<div class="nav-header-item-collection>
+
+			<a> About 
+
+			</a>
+
+			</div>
+
+			<div class="nav-header-item-collection>
+
+			<a> Services 
+
+			</a>
+
+			</div>
+
+			<div class="nav-header-item-collection>
+			
+			<a> General Information
+
+			</a>
+
+			</div>
+
+			<div class="nav-header-item-collection>
+			
+			<a> University of New Orleans
+
+			</a>
+
+			</div>
+
+			<div class="nav-header-item-collection>
+			
+			<a> Documentation Submission
+
+			</a>
+
+			</div>
+
+			<div class="nav-header-item-collection>
+			
+			<a> Contact
+
+			</a>
+
+			</div>
+
+		</nav>
+
+		</div>
+
+		<div>
+
+		<a> Search Wiki 
+		
+		</a>
+
+		</div>
+
+		<div class="nav-header-folder-content">
+
+			<div class="link">
+			<a href="/about>
+			</a>
+			</div>
+
+		<div class="nav-header-folder-content">
+
+			<div class="link">
+			<a href="/services>
+			</a>
+			</div>
+
+		<div class="nav-header-folder-content">
+
+			<div class="link">
+			<a href="/university-of-new-orleans>
+			</a>
+			</div>
+
+		<div class="nav-header-folder-content">
+
+			<div class="link">
+			<a href="/documentation-submission>
+			</a>
+			</div>
+
+		<div class="nav-header-folder-content">
+
+			<div class="link">
+			<a href="/contact>
+			</a>
+			</div>
+		</div>
+		<header/>
+
+		<main id="page" class="container" role="main>
+		
+	</head>
+
+	<body>
+
+		<div class="section-border">
+			<div class ="section-background">
+				<img src="ekl1.jpg">
+		</div>
+
+		<div>
+
+		<h2 style="text-align: center; white-space"> University of New Orleans College Wiki </h2>
+
+		</div>
+
+	<section>
+		
+		<div>
+			<span style="font-size: 48px;">
+				<h1> 
+					<p>Today's Featured Article</p>
+				</h1>
+			</span>
+
+		<div> 
+			<p>Current Events</p>
+			<ul>
+				<li>"Chiefs overtake Bills as Super Bowl favorites"</li>
+				<li>"Live performance of Stupid F****king Bird at UNO Performing Arts Center"</li>
+				<li>"U.S. Senate clears key vote on same-sex marriage bill"</li>
+				<li>"Library Hours changing soon for Finals Week"</li>
+			</ul>
+		</div>
+
+
+		<div>
+			<p>On this Day</p>
+			<ul>
+				<li>"On November 28th, 1962, Jon Stewart American Comedian and Film Maker was born."</li>
+				<li>On November 28th, 2012, “The Hobbit: An Unexpected Journey” premiered in New Zealand.</li>
+				<li>On November 28th, 1994, Jeffrey Dahmer, prolific American serial killer was killed in prison.</li>
+			</ul>
+		</div>
+		
+	</section>
+
+	<section>
+	
+		<div>
+
+			<h1> Start Searching Now! </h1>
+
+		</div>
+		<div>
+
+			<ul>
+				<li>General Information</li>
+				<p>For Building Locations &amp; Hours, Log-in Tutorials, Department Overviews and much more!</p>
+				<li>University History</li>
+				<p>Take a deep dive into our universities storied past (for example Alumni &amp; Sports Achievements) or just for what happened last Tuesday (for ex. Annual Ceremonies).</p>
+				<li>Requests & Incident Reports</li>
+				<p>For Transcripts and other general Forms as well as a record of documented incidents on campus.</p>
+				<li>Phone Book</li>
+				<p>A list of the most frequently used university lines and emails. Along with tips for who to contact depending on the problem.</p>
+			</ul>
+		</div>
+
+		<div>
+
+			<a href=/services"> All Sunjects </a>
+
+		</div>
+	
+	</section>
+		<div>
+
+	<section>
+
+			<h2>More About Us</h2>
+			<p>This website was designed by UNO affiliates for UNO affiliates in the hopes of spreading and retaining information whether that be about our city’s history or our schools through learning more about our history. We hope this newfound wealth of information can be useful not only for finding out pertinent information but to also foster a better community by helping bring people together.</p>
+
+	
+		</div>	
+	</section>
+		</main>
+	<footer>
+
+		<div> 
+			<h4 style="text-align: center;>University of New Orleans Wikia</h4>
+		</div>
+
+		<div>
+			<p style="text-align center;">
+			<strong>Hours</strong> </p>
+			<p style="text-align center;"> Earl K Long Library Room 420</p>
+			<p style="text-align center;"> 
+			Monday-Friday
+			<br>
+			10am-5pm
+			</p>
+		</div>
+
+		<div>
+			<strong>Contact</strong>
+			<p style="text-align: center;>uniwiki@uno.edu</p>
+		</div>
+
+	</footer>
+	</body>
+
+</html>
