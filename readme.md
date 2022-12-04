@@ -5,4 +5,5 @@ There are a total of 6 html files that makeup verison 1.5 of the Wikipedia home.
 
 To edit any of the files locations simply replace what is there with the current path of the downloaded files.
 
-All files needed to run website properly are found in the 
+All files needed to run website properly are found in the UnivWiki folder 
+it is advised to download ALL files for best results.
